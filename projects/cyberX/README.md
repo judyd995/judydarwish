@@ -37,3 +37,6 @@
 
 # Result
   The CyberX machine was fully compromised through three independent attack vectors. The environment requires strong authentication policies, service updates, and improved configuration.
+  
+# Conclusion
+  This project demonstrates practical experience in identifying and exploiting real vulnerabilities, performing privilege escalation, and documenting findings in a structured penetration testing report.
