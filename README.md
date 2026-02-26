@@ -66,29 +66,29 @@ I am continuing to study regularly and progressing through more offensive and SO
 
 ---
 
-# ✅ Completed Rooms
+#  Completed Rooms
 
-## 🛡️ SOC & Defensive Security
+##  SOC & Defensive Security
 - **Defensive Security Intro**  
 - **Junior Security Analyst Intro**  
 - **SOC Role in Blue Team**  
 - **SOC Fundamentals**  
 
-## 🔥 Offensive Security Basics
+##  Offensive Security Basics
 - **Offensive Security Intro**  
 - **Metasploit: Introduction**  
 
-## 🌐 Networking & Recon
+##  Networking & Recon
 - **Networking Concepts**  
 - **What is Networking?**  
 - **Introductory Networking**  
 - **Passive Reconnaissance**  
 - **Nmap Live Host Discovery**  
 
-## 🐧 Linux Essentials
+##  Linux Essentials
 - **Linux Fundamentals Part 1**  
 
-## 🌍 Web & Cyber Basics
+##  Web & Cyber Basics
 - **How Websites Work**  
 - **Cryptography Basics**  
 - **Vulnerabilities 101**  
