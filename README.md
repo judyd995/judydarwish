@@ -109,7 +109,7 @@ The following rooms from the **Jr Penetration Tester Path** have been completed:
 
 ---
 
-### 🔹 Tools 
+###  Tools 
 - Burp Suite  
 - Nmap  
 - Gobuster
