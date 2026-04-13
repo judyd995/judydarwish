@@ -117,8 +117,7 @@ The following rooms from the **Jr Penetration Tester Path** have been completed:
 - Metasploit Framework  
 - Kali Linux  
 - Linux Terminal  
-- VMware Workstation  
-- Windows VM  
+- VMware Workstation   
 - Wireshark  
 - Docker (Juice Shop deployment)  
 - SQL / MariaDB  
