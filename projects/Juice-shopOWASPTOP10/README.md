@@ -24,7 +24,8 @@ All findings were documented in a detailed PDF report included in this repositor
 
 - **Operating System:** Kali Linux 2024  
 - **Platform:** Docker  
-- **Application URL:** `http://localhost:8080`  
+- **Application URL:** `http://localhost:8080`
+  
 - **Tools Used:**  
   - Burp Suite  
   - Browser DevTools  
@@ -116,7 +117,7 @@ It includes:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The assessment demonstrated that the Juice Shop application contains multiple vulnerabilities across authentication, authorization, input validation, and cryptographic controls.
 
