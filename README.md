@@ -61,7 +61,7 @@ A full web‑application pentest based on OWASP Top 10.
 
 This page highlights the practical rooms I completed on TryHackMe as part of my cybersecurity training.  
 During my internship at a private cyber security training company, I was required to complete specific hands‑on labs on TryHackMe.  
-I am continuing to study regularly and progressing through more offensive and SOC‑related rooms.
+I am continuing to study regularly and progressing through more Pre-security and Jr Penetration Tester paths.
 
 ---
 
