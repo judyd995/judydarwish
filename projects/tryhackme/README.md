@@ -1,28 +1,30 @@
+# TryHackMe – Learning Progress & Certifications
 
-# TryHackMe Progress & Learning Journey
-
-This folder contains my practical work, notes, and screenshots from my learning path on **TryHackMe**.  
-I use this space to document my progress, hands‑on labs, and cybersecurity skills development.
+This folder documents my practical learning journey on **TryHackMe**, including certificates, badges, solved rooms, and screenshots from hands‑on labs.
 
 ---
 
-##  Current Status
+##  Completed Path: Pre‑Security
 
-###  Completed: **Pre‑Security Path**
-I successfully finished the entire **Pre‑Security** learning path, which included:
+I successfully completed the **Pre‑Security** learning path on TryHackMe.
 
-- Networking fundamentals  
-- Linux basics  
-- Cybersecurity foundations  
+This path helped me build strong foundations in:
+
+- Networking basics  
+- Linux fundamentals  
 - Web concepts  
+- Cybersecurity essentials  
 - Hands‑on beginner labs  
 
-All labs were solved and tested practically, and screenshots are included in the `screenshots/` folder.
+ All screenshots of the certificate, badges, and completed rooms are included in this folder.
 
 ---
 
-##  Currently Working On: **Penetration Tester Path**
-I have officially started the **Penetration Tester** learning path, which focuses on:
+##  Current Path: Penetration Tester
+
+I have officially started the **Penetration Tester** learning path.
+
+This path focuses on:
 
 - Reconnaissance  
 - Enumeration  
@@ -32,8 +34,30 @@ I have officially started the **Penetration Tester** learning path, which focuse
 - Privilege escalation  
 - Practical offensive security labs  
 
-Progress will be updated continuously as I complete more rooms and challenges.
+ A screenshot showing the start of this path is included.
+
+Progress will be updated as I complete more rooms.
 
 ---
 
+##  Skills Gained So Far
+
+- Linux command‑line usage  
+- Basic networking & protocols  
+- Web fundamentals  
+- Cybersecurity foundations  
+- Understanding of attack surfaces  
+- Hands‑on experience solving real labs  
+- Beginning penetration testing skills  
+
+---
+
+##  What’s Next
+
+- Continue progressing through the Penetration Tester path  
+- Document each completed room with screenshots  
+- Strengthen practical offensive security skills  
+- Build a solid base for real‑world penetration testing  
+
+---
 
