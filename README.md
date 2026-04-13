@@ -1,4 +1,4 @@
-# Judy Darwish — Cyber Security Trainee | Penetration Tester | SOC Enthusiast
+# Judy Darwish — Cyber Security Trainee | Penetration Tester 
 
 Welcome to my cybersecurity portfolio.  
 This repository showcases all my hands‑on work from my cybersecurity training, including penetration testing projects, SOC‑related labs, TryHackMe progress, theoretical and practical tasks, and real application exploitation.
