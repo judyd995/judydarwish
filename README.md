@@ -154,7 +154,7 @@ During training, I completed over **10 theoretical and practical assignments** c
 - Linux Operating System  
 - Windows Operating System (VM)  
 - Virtualization (VMware Workstation)  
-- Docker (running vulnerable labs مثل Juice Shop)  
+- Docker (running vulnerable labs as Juice Shop)  
 - Web Technologies (HTTP, HTTPS, Cookies, Sessions)  
 - Databases (SQL, MariaDB)  
 - Networking Fundamentals (TCP/IP, Ports, Protocols)  
