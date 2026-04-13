@@ -1,12 +1,12 @@
 
-# OWASP Juice Shop – Penetration Testing Project
+ OWASP Juice Shop – Penetration Testing Project
 
 This repository contains a full penetration testing assessment performed on the **OWASP Juice Shop** application.  
 The project was conducted as part of a practical cybersecurity training program and follows professional methodologies aligned with **OWASP WSTG** and **PTES** standards.
 
 ---
 
-## 📁 Project Overview
+Project Overview
 
 The objective of this project was to identify, exploit, and document security vulnerabilities within the Juice Shop application using a structured penetration testing approach.  
 The assessment covered:
@@ -21,7 +21,7 @@ All findings were documented in a detailed PDF report included in this repositor
 
 ---
 
-## 🧪 Testing Environment
+Testing Environment
 
 - **Operating System:** Kali Linux 2024  
 - **Platform:** Docker  
@@ -35,23 +35,23 @@ All findings were documented in a detailed PDF report included in this repositor
 
 ---
 
-## 🛠 Methodology
+Methodology
 
 The penetration test followed internationally recognized standards:
 
-### **1. Reconnaissance**
+. Reconnaissance**
 - Application structure analysis  
 - Endpoint discovery  
 
-### **2. Scanning & Discovery**
+. Scanning & Discovery**
 - Identifying exposed services  
 - Mapping the attack surface  
 
-### **3. Vulnerability Analysis**
+. Vulnerability Analysis**
 - Testing OWASP Top 10 categories  
 - Evaluating authentication & authorization  
 
-### **4. Exploitation**
+. Exploitation**
 - Validating exploitability  
 - Attempting to bypass security controls  
 
@@ -60,9 +60,9 @@ The penetration test followed internationally recognized standards:
 - Assessing severity & impact  
 - Providing remediation recommendations  
 
----
 
-## 🔥 Key Vulnerabilities Identified
+
+Key Vulnerabilities Identified
 
 The assessment revealed multiple vulnerabilities across critical security areas, including:
 
@@ -82,7 +82,7 @@ A full explanation of each vulnerability, including exploitation steps and recom
 
 ---
 
-## 📊 Vulnerability Summary Table
+Vulnerability Summary Table
 
 | Vulnerability | Category | Severity |
 |--------------|----------|----------|
@@ -100,7 +100,7 @@ A full explanation of each vulnerability, including exploitation steps and recom
 
 ---
 
-## 📄 Report
+ Report
 
 The full penetration testing report is available in this repository as a PDF file:
 
@@ -117,7 +117,7 @@ It includes:
 
 ---
 
-## 🏁 Conclusion
+Conclusion
 
 The assessment demonstrated that the Juice Shop application contains multiple vulnerabilities across authentication, authorization, input validation, and cryptographic controls.
 
@@ -127,7 +127,7 @@ This project highlights the importance of secure coding practices, proper access
 
 ---
 
-## 👩‍💻 Author
+Author
 
 **Judy Muhammad Darwish**  
 Cybersecurity & Penetration Testing Trainee  
