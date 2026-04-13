@@ -1,21 +1,20 @@
 # Judy Darwish — Cyber Security Trainee | Penetration Tester 
 
 Welcome to my cybersecurity portfolio.  
-This repository showcases all my hands‑on work from my cybersecurity training, including penetration testing projects, SOC‑related labs, TryHackMe progress, theoretical and practical tasks, and real application exploitation.
+This repository showcases all my hands‑on work from my cybersecurity training, including penetration testing projects , TryHackMe progress, theoretical and practical tasks, and real application exploitation.
 
-I trained as a **Cyber Security / Penetration Tester** and I am also interested in the **SOC (Blue Team) path**, currently progressing through TryHackMe rooms and completing hands‑on labs.
+I trained as a **Cyber Security / Penetration Tester** and I am also interested in the **Jr Penetration Tester path**, currently progressing through TryHackMe rooms and completing hands‑on labs.
 
 ---
 
 # Training Summary
-- Trained at a Cyber Security company as a **Penetration Tester**
-- Interested in SOC analyst skills and defensive security
+- Trained at a Focal x company as a **Penetration Tester**
 - Completed **10+ theoretical and practical tasks**
-- Performed multiple hands‑on labs (VMs, Burp, TryHackMe, PortSwigger)
+- Performed multiple hands‑on labs (VMs, Burp, TryHackMe)
 - Completed theoretical exams + practical tests
 - Finished **2 graduation projects**  
-- Currently working on an ongoing lab exercise  
 - Earned several TryHackMe **badges**
+- completed **Pre-security** path
 
 ---
 
@@ -66,59 +65,65 @@ I am continuing to study regularly and progressing through more offensive and SO
 
 ---
 
-#  Completed Rooms
+##  Completed Rooms & Badges
 
-##  SOC & Defensive Security
-- **Defensive Security Intro**  
-- **Junior Security Analyst Intro**  
-- **SOC Role in Blue Team**  
-- **SOC Fundamentals**  
+All completed TryHackMe rooms and earned badges are documented with screenshots inside the **`screenshots/`** folder.  
+This folder is continuously updated as I complete new rooms and earn additional badges.
 
-##  Offensive Security Basics
-- **Offensive Security Intro**  
-- **Metasploit: Introduction**  
-
-##  Networking & Recon
-- **Networking Concepts**  
-- **What is Networking?**  
-- **Introductory Networking**  
-- **Passive Reconnaissance**  
-- **Nmap Live Host Discovery**  
-
-##  Linux Essentials
-- **Linux Fundamentals Part 1**  
-
-##  Web & Cyber Basics
-- **How Websites Work**  
-- **Cryptography Basics**  
-- **Vulnerabilities 101**  
-- **Careers in Cyber**  
 
 ---
 
-# Skills Gained
-- SOC basics: alert types, defensive concepts, blue‑team workflow  
-- Linux command line fundamentals  
-- Web basics & application structure  
-- Network fundamentals (TCP/IP, ports, services)  
-- Reconnaissance & enumeration techniques  
-- Basic exploitation concepts (Metasploit intro)  
-- Vulnerabilities fundamentals & cryptography basics  
+##  Skills Gained
+
+###  Penetration Testing Skills (Focal X Training)
+- Port scanning & service enumeration (Nmap, Gobuster)
+- Attack surface mapping & reconnaissance
+- Vulnerability identification & analysis
+- Manual exploitation fundamentals
+- Authentication bypass techniques (current progress in Jr Penetration Tester path)
+- Burp Suite basics (Proxy, Repeater, Intruder)
+- Web application testing (OWASP Top 10)
+- Privilege escalation concepts
+- Docker deployment for security labs (Juice Shop)
+- Documenting findings & writing technical reports
+- Hands‑on testing on vulnerable machines (CyberX project)
 
 ---
 
-#  Badges Earned
-- **3‑Day Streak**  
-- **cat linux.txt** (Linux competency)
+###  Pre‑Security Path Skills (TryHackMe)
+- Networking fundamentals (TCP/IP, ports, protocols)
+- Linux command‑line basics
+- Web fundamentals (HTTP, requests, responses)
+- Cybersecurity foundations & core concepts
+- Basic cryptography understanding
+- Identifying common vulnerabilities (SQLi, XSS, IDOR basics)
+- Understanding how websites and servers work
 
 ---
 
-# Currently Working On
-- Completing SOC Level 1 Path  
-- Advancing in Jr Penetration Tester Path  
-- Additional networking, Linux, and web rooms  
-- More practical labs requested during internship  
-- Burp Suite & OWASP Top 10 labs  
+###  Jr Penetration Tester Path (Current Progress)
+The following rooms from the **Jr Penetration Tester Path** have been completed:
+- **Introduction to Cyber Security**
+- **Introduction to Pentesting**
+- **Introduction to Web Hacking**
+
+---
+
+### 🔹 Tools 
+- Burp Suite  
+- Nmap  
+- Gobuster
+- curl
+- Metasploit Framework  
+- Kali Linux  
+- Linux Terminal  
+- VMware Workstation  
+- Windows VM  
+- Wireshark  
+- Docker (Juice Shop deployment)  
+- SQL / MariaDB  
+- HTTP Request & Response Analysis  
+- OWASP Top 10 Basics
 
 ---
 
@@ -145,30 +150,22 @@ During training, I completed over **10 theoretical and practical assignments** c
 📁 Folder: `assignments/`
 
 ---
+##  Technologies
 
-#  Tools & Technologies
-- **Pentesting Tools:** Burp Suite, Metasploit, Nmap, Gobuster  
-- **Networking:** Wireshark, ping, netstat, TCP/IP  
-- **Systems:** Kali Linux, Windows 7 VM, VMware  
-- **Web Security:** OWASP Top 10, PortSwigger Labs  
-- **Databases:** SQL, MariaDB  
-- **Containers:** Docker  
-- **Platforms:** TryHackMe, PortSwigger Academy  
-- **Currently working on:** new lab project  
+- Linux Operating System  
+- Windows Operating System (VM)  
+- Virtualization (VMware Workstation)  
+- Docker (running vulnerable labs مثل Juice Shop)  
+- Web Technologies (HTTP, HTTPS, Cookies, Sessions)  
+- Databases (SQL, MariaDB)  
+- Networking Fundamentals (TCP/IP, Ports, Protocols)  
+- Web Application Security Concepts (OWASP Top 10)  
+- Authentication & Authorization Concepts  
+- Client–Server Architecture  
 
----
-
-#  Skills
-- Vulnerability scanning & exploitation  
-- Web application testing  
-- Linux basics & terminal usage  
-- Docker deployment for security labs  
-- Understanding of SOC fundamentals  
-- Log analysis basics  
-- Enumeration & recon techniques  
-- Traffic inspection (Wireshark)  
 
 ---
+
 
 #  Contact
 **GitHub:** https://github.com/judydarwish  
