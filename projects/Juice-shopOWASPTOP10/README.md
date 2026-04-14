@@ -99,6 +99,16 @@ A full explanation of each vulnerability, including exploitation steps and recom
 | Insecure Design | Design | Medium |
 
 ---
+## Screenshots
+
+Below are some key screenshots captured during the penetration testing process:
+
+![Screenshot 1](./screenshots/Screenshot%20from%202026-04-13%2015-02-01.png)
+![Screenshot 2](./screenshots/Screenshot%20from%202026-04-13%2015-02-10.png)
+![Screenshot 3](./screenshots/Screenshot%20from%202026-04-13%2015-02-18.png)
+![Screenshot 4](./screenshots/Screenshot%20from%202026-04-13%2015-02-25.png)
+
+---
 
 ##  Report
 
