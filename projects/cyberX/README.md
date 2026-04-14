@@ -35,6 +35,23 @@
   curl
   Linux command‑line tools
 
+## Screenshots
+
+Below are some key screenshots captured during the CyberX penetration testing process:
+
+![Screenshot 1](./screenshots/Screenshot%20from%202026-04-13%2013-36-51.png)
+![Screenshot 2](./screenshots/Screenshot%20from%202026-04-13%2013-37-00.png)
+![Screenshot 3](./screenshots/Screenshot%20from%202026-04-13%2013-37-15.png)
+![Screenshot 4](./screenshots/Screenshot%20from%202026-04-13%2013-37-24.png)
+
+## Report
+
+The full penetration testing report for the CyberX machine is available in this repository:
+
+**[CyberXPenetrationTestingReport.pdf](./CyberXPenetrationTestingReport.pdf)**
+
+  
+
 # Result
   The CyberX machine was fully compromised through three independent attack vectors. The environment requires strong authentication policies, service updates, and improved configuration.
   
