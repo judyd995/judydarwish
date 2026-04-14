@@ -60,7 +60,7 @@ A full web‑application pentest based on OWASP Top 10.
 
 **Score achieved:** **97/100**
 
-📁 Folder: [`projects/cyberX`](./projects/cyberX)
+📁 Folder: [`projects/Juice-shopOWASPTOP10`](./projects/Juice-shopOWASPTOP10)
 
 ---
 
