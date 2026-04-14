@@ -15,6 +15,7 @@ I trained as a **Cyber Security / Penetration Tester** and I am also interested 
 - Finished **2 graduation projects**  
 - Earned several TryHackMe **badges**
 - completed **Pre-security** path
+- Enrolled with **Jr-Penetration-Tester** Path 
 ---
 
 # Certificates
