@@ -163,6 +163,7 @@ Practical tasks will be added soon to the assignments folder.
 **GitHub:** [github.com/judydarwish](https://github.com/judydarwish)  
 **Email:** [judydarwish3@gmail.com](mailto:judydarwish3@gmail.com)  
 **LinkedIn:** [linkedin.com/in/judymdarwish](https://www.linkedin.com/in/judymdarwish/)
+**TryHackMe:** [tryhackme.com/p/judydarwish3](https://tryhackme.com/p/judydarwish3)
 
 
 Thanks for viewing my portfolio!
