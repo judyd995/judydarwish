@@ -15,8 +15,6 @@ I trained as a **Cyber Security / Penetration Tester** and I am also interested 
 - Finished **2 graduation projects**  
 - Earned several TryHackMe **badges**
 - completed **Pre-security** path
-
----
 ---
 
 # Certificates
@@ -24,7 +22,6 @@ I trained as a **Cyber Security / Penetration Tester** and I am also interested 
 ###  Focal X Cybersecurity Certificate
 ![Focal X Certificate](./projects/screenshot/FocalXCertificate.jpeg)
 
----
 
 # Main Cybersecurity Projects
 
@@ -40,7 +37,6 @@ A full attack chain on a vulnerable machine during my training program.
 
 📁 : [`projects/cyberX`](./projects/cyberX)
 
----
 
 ## **Juice Shop OWASP Top 10 (Docker Deployment)**
 A full web‑application pentest based on OWASP Top 10.
@@ -62,27 +58,6 @@ A full web‑application pentest based on OWASP Top 10.
 
 📁 : [`projects/Juice-shopOWASPTOP10`](./projects/Juice-shopOWASPTOP10)
 
----
-
-
-
-
-This page highlights the practical rooms I completed on TryHackMe as part of my cybersecurity training.  
-During my internship at a private cyber security training company, I was required to complete specific hands‑on labs on TryHackMe.  
-I am continuing to study regularly and progressing through more Pre-security and Jr Penetration Tester paths.
-
----
-
-##  Completed Rooms & Badges
-
-All completed TryHackMe rooms and earned badges are documented with screenshots inside this folder :
-
-📁 : [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
-This folder is continuously updated as I complete new rooms and earn additional badges.
-
-
----
-
 ##  Skills Gained
 
 ###  Penetration Testing Skills (Focal X Training)
@@ -100,6 +75,17 @@ This folder is continuously updated as I complete new rooms and earn additional 
 
 ---
 
+This page highlights the practical rooms I completed on TryHackMe as part of my cybersecurity training.  
+During my internship at a private cyber security training company, I was required to complete specific hands‑on labs on TryHackMe.  
+I am continuing to study regularly and progressing through more Pre-security and Jr Penetration Tester paths.
+
+##  Completed Rooms & Badges
+
+All completed TryHackMe rooms and earned badges are documented with screenshots inside this folder :
+
+📁 : [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
+This folder is continuously updated as I complete new rooms and earn additional badges.
+
 ###  Pre‑Security Path Skills (TryHackMe)
 - Networking fundamentals (TCP/IP, ports, protocols)
 - Linux command‑line basics
@@ -109,7 +95,7 @@ This folder is continuously updated as I complete new rooms and earn additional 
 - Identifying common vulnerabilities (SQLi, XSS, IDOR basics)
 - Understanding how websites and servers work
 
----
+
 
 ###  Jr Penetration Tester Path (Current Progress)
 The following rooms from the **Jr Penetration Tester Path** have been completed:
@@ -117,6 +103,9 @@ The following rooms from the **Jr Penetration Tester Path** have been completed:
 - **Introduction to Pentesting**
 - **Introduction to Web Hacking**
 
+
+
+This section will be updated as I complete new rooms and advance through more cybersecurity learning paths.
 ---
 
 ###  Tools 
@@ -134,9 +123,6 @@ The following rooms from the **Jr Penetration Tester Path** have been completed:
 - HTTP Request & Response Analysis  
 - OWASP Top 10 Basics
 
----
-
-This section will be updated as I complete new rooms and advance through more cybersecurity learning paths.
 
 ---
 # Focal X Assignments (10+ Tasks)
@@ -152,7 +138,7 @@ During training, I completed over **10 theoretical and practical assignments** c
 - TryHackMe labs  
 - Theory + practical exams  
 
-- Practical tasks will be added soon to the assignments folder.
+Practical tasks will be added soon to the assignments folder.
 
 📁 Folder: `assignments/`
 
