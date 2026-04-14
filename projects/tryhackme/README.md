@@ -14,7 +14,13 @@ This path helped me build strong foundations in:
 - Linux fundamentals  
 - Web concepts  
 - Cybersecurity essentials  
-- Hands‑on beginner labs  
+- Hands‑on beginner labs
+- ## Certificate
+
+Below is the certificate earned during the TryHackMe training path:
+
+![TryHackMe Certificate](./screenshot/Pre-Security.png)
+
 
  All screenshots of the certificate, badges, and completed rooms are included in this folder.
 
