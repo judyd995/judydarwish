@@ -38,7 +38,7 @@ A full attack chain on a vulnerable machine during my training program.
 - Performed exploitation  
 - Privilege escalation to full system control  
 
-📁 Folder: [`projects/cyberX`](./projects/cyberX)
+📁 : [`projects/cyberX`](./projects/cyberX)
 
 ---
 
@@ -76,7 +76,7 @@ I am continuing to study regularly and progressing through more Pre-security and
 ##  Completed Rooms & Badges
 
 All completed TryHackMe rooms and earned badges are documented with screenshots inside this folder :
-📁 Folder: [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
+📁 : [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
 This folder is continuously updated as I complete new rooms and earn additional badges.
 
 
