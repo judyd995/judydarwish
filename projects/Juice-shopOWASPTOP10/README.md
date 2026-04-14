@@ -114,7 +114,7 @@ Below are some key screenshots captured during the penetration testing process:
 
 The full penetration testing report is available in this repository as a PDF file:
 
-**`OWASP Juice Shop Penetration Testing Report.pdf`**
+**`OWASP-JuiceShop-Penetration-Testing-Report.pdf`**
 
 It includes:
 
