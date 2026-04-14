@@ -74,17 +74,12 @@ A full web‑application pentest based on OWASP Top 10.
 - Hands‑on testing on vulnerable machines (CyberX project)
 
 ---
+## TryHackMe Progress — Hands‑On Labs
 
 This page highlights the practical rooms I completed on TryHackMe as part of my cybersecurity training.  
 During my internship at a private cyber security training company, I was required to complete specific hands‑on labs on TryHackMe.  
 I am continuing to study regularly and progressing through more Pre-security and Jr Penetration Tester paths.
 
-##  Completed Rooms & Badges
-
-All completed TryHackMe rooms and earned badges are documented with screenshots inside this folder :
-
-📁 : [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
-This folder is continuously updated as I complete new rooms and earn additional badges.
 
 ###  Pre‑Security Path Skills (TryHackMe)
 - Networking fundamentals (TCP/IP, ports, protocols)
@@ -103,7 +98,11 @@ The following rooms from the **Jr Penetration Tester Path** have been completed:
 - **Introduction to Pentesting**
 - **Introduction to Web Hacking**
 
+##  Completed Rooms & Badges
 
+All completed TryHackMe rooms and earned badges are documented with screenshots inside this folder :
+
+📁 : [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
 
 This section will be updated as I complete new rooms and advance through more cybersecurity learning paths.
 ---
@@ -159,9 +158,10 @@ Practical tasks will be added soon to the assignments folder.
 
 ---
 
+# Contact
+**GitHub:** [github.com/judydarwish](https://github.com/judydarwish)  
+**Email:** [judydarwish3@gmail.com](mailto:judydarwish3@gmail.com)  
+**LinkedIn:** [linkedin.com/in/judymdarwish](https://www.linkedin.com/in/judymdarwish/)
 
-#  Contact
-**GitHub:** https://github.com/judydarwish  
-**Email:** *(judydarwish3@gmail.com)*  
 
 Thanks for viewing my portfolio!
