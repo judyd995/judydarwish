@@ -21,7 +21,7 @@ I trained as a **Cyber Security / Penetration Tester** and I am also interested 
 
 # Certificates
 
-### 🟣 Focal X Cybersecurity Certificate
+###  Focal X Cybersecurity Certificate
 ![Focal X Certificate](./projects/screenshot/FocalXCertificate.jpeg)
 
 ---
