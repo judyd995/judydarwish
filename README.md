@@ -146,7 +146,7 @@ Practical tasks will be added soon to the assignments folder.
 ##  Technologies
 
 - Linux Operating System  
-- Windows Operating System (VM)  
+- Windows Operating System   
 - Virtualization (VMware Workstation)  
 - Docker (running vulnerable labs as Juice Shop)  
 - Web Technologies (HTTP, HTTPS, Cookies, Sessions)  
