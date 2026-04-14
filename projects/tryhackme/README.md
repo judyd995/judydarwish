@@ -15,7 +15,8 @@ This path helped me build strong foundations in:
 - Web concepts  
 - Cybersecurity essentials  
 - Hands‑on beginner labs
-- ## Certificate
+
+## Certificate
 
 Below is the certificate earned during the TryHackMe training path:
 
