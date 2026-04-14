@@ -76,6 +76,7 @@ I am continuing to study regularly and progressing through more Pre-security and
 ##  Completed Rooms & Badges
 
 All completed TryHackMe rooms and earned badges are documented with screenshots inside this folder :
+
 📁 : [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot).  
 This folder is continuously updated as I complete new rooms and earn additional badges.
 
