@@ -132,8 +132,7 @@ This section will be updated as I complete new rooms and advance through more cy
 📁 Folder: `tryhackme/`
 
 ---
-
-# Course Assignments (10+ Tasks)
+# Focal X Assignments (10+ Tasks)
 During training, I completed over **10 theoretical and practical assignments** covering:
 
 - Networks  
@@ -145,6 +144,8 @@ During training, I completed over **10 theoretical and practical assignments** c
 - Traffic analysis  
 - TryHackMe labs  
 - Theory + practical exams  
+
+- Practical tasks will be added soon to the assignments folder.
 
 📁 Folder: `assignments/`
 
