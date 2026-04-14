@@ -38,7 +38,7 @@ A full attack chain on a vulnerable machine during my training program.
 - Performed exploitation  
 - Privilege escalation to full system control  
 
-📁 Folder: `projects/cyberX.`
+📁 Folder: [`projects/cyberX`](./projects/cyberX)
 
 ---
 
@@ -60,7 +60,7 @@ A full web‑application pentest based on OWASP Top 10.
 
 **Score achieved:** **97/100**
 
-📁 Folder: `projects/juice-shop-owasp`
+📁 Folder: [`projects/cyberX`](./projects/cyberX)
 
 ---
 
@@ -75,7 +75,8 @@ I am continuing to study regularly and progressing through more Pre-security and
 
 ##  Completed Rooms & Badges
 
-All completed TryHackMe rooms and earned badges are documented with screenshots inside the **`screenshots/`** folder.  
+All completed TryHackMe rooms and earned badges are documented with screenshots inside the 📁 Folder: [`projects/tryhackme/screenshot`](./projects/tryhackme/screenshot)
+ folder.  
 This folder is continuously updated as I complete new rooms and earn additional badges.
 
 
@@ -135,9 +136,6 @@ The following rooms from the **Jr Penetration Tester Path** have been completed:
 ---
 
 This section will be updated as I complete new rooms and advance through more cybersecurity learning paths.
-
-
-📁 Folder: `tryhackme/`
 
 ---
 # Focal X Assignments (10+ Tasks)
