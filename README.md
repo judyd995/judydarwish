@@ -17,6 +17,14 @@ I trained as a **Cyber Security / Penetration Tester** and I am also interested 
 - completed **Pre-security** path
 
 ---
+---
+
+# Certificates
+
+### 🟣 Focal X Cybersecurity Certificate
+![Focal X Certificate](./projects/screenshot/FocalXCertificate.jpeg)
+
+---
 
 # Main Cybersecurity Projects
 
